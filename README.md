@@ -1,0 +1,13 @@
+# j2ltedd-user 5.1.1 LMY47X J200GDCU2ARL1 release-keys
+- manufacturer: samsung
+- platform: exynos3
+- codename: j2lte
+- flavor: j2ltedd-user
+- release: 5.1.1
+- id: LMY47X
+- incremental: J200GDCU2ARL1
+- tags: release-keys
+- fingerprint: samsung/j2ltedd/j2lte:5.1.1/LMY47X/J200GDCU2ARL1:user/release-keys
+- brand: samsung
+- branch: j2ltedd-user-5.1.1-LMY47X-J200GDCU2ARL1-release-keys
+- repo: samsung_j2lte_dump
